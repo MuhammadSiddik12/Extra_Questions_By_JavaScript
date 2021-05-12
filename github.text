@@ -1,0 +1,25 @@
+what is git?
+what is github?
+gitlab
+vincit objection.js
+git init
+git clone (link)
+mv 
+get remote -v
+git add .
+git add folder name 
+git config --global user.email 'muhammadsiddik2002@gmail.com'
+git config --global user.name 'MuhammadSiddik12'
+git commit
+git commit -m 'pushed all logical codes'
+git status
+git log
+pr = pull requests
+git push
+username=''
+password=''
+git remote -v 
+git commit -m 'removed codes'
+jsfiddle.net    
+api in js
+requests in js
